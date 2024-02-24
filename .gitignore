@@ -1,0 +1,20 @@
+# cache
+cache_dir
+
+# experiments
+experiments
+
+# data
+data
+
+# docs
+docs
+
+# utils
+utils/*.py
+utils/*.sh
+utils/eval
+
+# unsused
+predict.py
+moellava.egg-info
